@@ -1,0 +1,18 @@
+banner
+mission
+info
+about
+services
+benefits
+testimonials
+image info
+counter
+cta
+team
+portfolio
+pricing plan
+shop
+blog
+clients
+newsletter
+contact
